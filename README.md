@@ -12,7 +12,7 @@
 
 `wget -qO- https://raw.github.com/ma6174/vim/master/setup.sh | sh -x`
 
-`wget -qO- https://github.com/wj249113467/vim/blob/master/setup.sh | sh -x`
+`wget -qO- https://raw.github.com/wj249113467/vim/master/setup.sh | sh -x`
 ### 或者自己手动安装：(以ubuntu为例)
 
 1. 安装vim `sudo apt-get install vim`
